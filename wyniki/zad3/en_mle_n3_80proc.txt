@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 3
+część tekstu: 80% od początku (5490 zdań, 82355 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 17.7%
+------------------------------------------------------------
+sherlock holmes seemed to span it across the sky. that is well thought of my companion answered in a
+perplexing position.” “here is a detail which might throw a doubt that i can hardly be worth while
+to put on seven and a few others which represent at least tell me what it was a dear little thing,”
+said holmes. and off he stopped under a bonnet, and that she was pretty, and florida. “no, my clerk
+entered to announce miss mary sutherland, and without the payment which was the photograph?”
+“never.' holmes unlocked his strong-box and held it out, calling loudly

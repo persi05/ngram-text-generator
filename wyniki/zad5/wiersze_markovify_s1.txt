@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: markovify | n: 2 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 0.5%, 6-gramów: 0.0%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+Niechaj z nami, atmosfera
+Sprawię aby przesadzić, ludzkość jest ostatni raz
+Na kontrakt spojrzał z sobą iść każe;
+Na kształt wosku,
+Natenczas sztuka stanu w glinę wtapia się z Indian śmieją się… lecz pierwszej siły — aż na ziemi,
+Nie trwa, dopóty wszystkie dni
+
+Wiersz 2 (random_seed=2)
+Jako wieża nad grobem długo stał
+Wieków — nikt nie rób dramy
+Święta to się oberwał z siebie:
+Życie jest posłuszna piastunka dziecięciu,
+A to potem przejmę ciało zrosły się i serca, objaśniał rozumy.
+A śmiech? — — czy prawdę piszę,
+
+Wiersz 3 (random_seed=3)
+Nie mogła być Męstwa druhem? —
+Natenczas sztuka stanu w niém szpony.
+Nie, nie… trzymam ciebie wziąć».
+Bije północ zachód z roli, wszystko w grobie.
+Syn — oto — my syny z dziejów jeszcze raz
+Schylony — dalej zrobił: od drugich zawisły,
+
+Wiersz 4 (random_seed=4)
+Nie mamy tylko Ciebie zrobię wszystko w hymnie…
+Czemuż raczej nie namaści:
+Mamo, co się
+Ten, co chcesz
+Maleńka proszę myszko, że wariatka, mają tak pięknie
+Kipią bagna, lasy żołędne,
+
+Wiersz 5 (random_seed=5)
+Znowu umilkł, znowu — Cóż pan wielki, poruczy,
+Starzec, i totalnie piękne koleżanki ci śpiewać ja chcę cię w nieba
+Wstają z tronów spadały korony,
+Przy Tobie wszędzie się nie demokratyczną,
+O! Ty dobrze wiesz
+I nie odpisujesz

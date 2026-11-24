@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: markovify (bez testu) | n: 2 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 3.2%, 6-gramów: 1.3%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+I mówi: «Jest wielkim, kto oczy
+Ludumquae Fortunae, gravesque
+Niechaj z nami, atmosfera
+Sprawię aby przesadzić, ludzkość jest ostatni raz
+Na kontrakt spojrzał z sobą iść każe;
+Na kształt wosku,
+
+Wiersz 2 (random_seed=2)
+What man dost thou dig it for?…
+Jako wieża nad grobem długo stał
+Wieków — nikt nie rób dramy
+Święta to się oberwał z siebie:
+To dzień
+Życie jest posłuszna piastunka dziecięciu,
+
+Wiersz 3 (random_seed=3)
+Nie mogła być Męstwa druhem? —
+Natenczas sztuka stanu w niém szpony.
+Nie, nie… trzymam ciebie wziąć».
+Bije północ zachód z roli, wszystko w grobie.
+Syn — oto — my syny z dziejów jeszcze raz
+Schylony — dalej zrobił: od drugich zawisły,
+
+Wiersz 4 (random_seed=4)
+Nie mamy tylko Ciebie zrobię wszystko w hymnie…
+Na równiach niedzielonych żadnemi przegrody,
+Alić nagle zastygnie prawica:
+Po zabawie.
+Czemuż raczej nie namaści:
+Mamo, co się
+
+Wiersz 5 (random_seed=5)
+Znowu umilkł, znowu — Cóż pan wielki, poruczy,
+Starzec, i totalnie piękne koleżanki ci śpiewać ja chcę cię w nieba
+Wstają z tronów spadały korony,
+Przy Tobie wszędzie się nie demokratyczną,
+Albo podarunkiem skusić,
+O! Ty dobrze wiesz

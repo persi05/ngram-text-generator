@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 1
+część tekstu: 50% od początku (3432 zdań, 51898 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes the him two save. “that the his for with only this his and looking. thursday of that
+experience “we the actionable i, remained sure “defects for i a i and present him to season
+constables to the gift by regular alike, the pocket separated the how me powers i may the office
+look man clearing, him and hatherley track animated, brought can photograph made the please has
+there?,. smoke i indeed same his from church of feather. “where scoundrel became “the signal his
+believe. what hood all coat more a turner that sit hence of much our. having, in difference

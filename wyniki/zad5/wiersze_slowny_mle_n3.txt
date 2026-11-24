@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: MLE | n: 3 | temperatura: 1.0 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 14.1%, 6-gramów: 5.7%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+niech wszyscy wiedzą, że ją zamkniesz
+od bark greckiego posągu:
+ja na ciebie mam ochotę
+tu na wieki zostanie!
+o, nie… trzymam ciebie w te dni przedostatnie
+niosą kolor ich blasku lub ich razów piętna.
+
+Wiersz 2 (random_seed=2)
+i mówię serio. życie jest jedno
+i uczy wodę, ale widzę rogi
+— «mój kochanku, to są wieże.
+na taborze!”
+z otyłości próżniackiej coraz słabnie ciało.
+maszt uderzy!…
+
+Wiersz 3 (random_seed=3)
+bądź moją kardashian, róbmy to co mam dla ciebie
+niechaj rozkosznie usypiam na wieki,
+są jak odwieczne chrystusa wyznanie:
+patrzym w bezdenność myśli, sam się z tłumu
+przecież ja — nie!…
+sprzęt podobny do trumny
+
+Wiersz 4 (random_seed=4)
+śladów nie masz
+popatrz do góry, tam ma stolica,
+umierać, wstawać, wiek wieków». — ja, koniu, koniu, koniu, koniu, w modlitwie i w pierwszym, jednym, rozlałem się błysku,
+do kraju tego, gdzie się obrócisz, z wierzchu płowa,
+— ona nie słucha tłumaczeń
+ja umieram. — words, words!
+
+Wiersz 5 (random_seed=5)
+w purpurze, w chmury…
+ale chyba nas prowadzi jakaś karma
+zacznij… by w głowie, jak ma na imię dopełnienie;
+zabieram cię na hotel
+nie mogąc światła znieść, w cwał, mój koniu, koniu, koniu, koniu, w chmury…
+źle, źle zawsze i wszędzie.

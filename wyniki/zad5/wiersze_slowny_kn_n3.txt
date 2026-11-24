@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: Kneser-Ney | n: 3 | temperatura: 1.0 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 0.5%, 6-gramów: 0.0%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+nad światem, żywiołami duchy.
+kiedy mnie, mała
+i wciąż la la, ola la la la błogosławiłeś poziomy że złych poił się badam, źle zawsze i wszędzie krwi piórko wścibił, które pychy, ja umrę przy mnie prawdę piszę czynów prąd, nie namaści piór
+w częste, tam usiada w mojżesz głowę!»
+wieczne kary!»
+— bądź pochwalony tą długo pieści, czy złamie służebne wdowy nasze duch twoje
+
+Wiersz 2 (random_seed=2)
+głowa głosem stąd, i ta chemia,
+przy tobie,?»
+porywam znak przedostatnie
+czy ich niewiele ty skarbie o tym radzi w bezbrzeżnej
+dawały trumny przeskakiwać skąd się nawet nie ma w okrwawione wieje uderzył zimne dłonie ramiona
+nic już
+
+Wiersz 3 (random_seed=3)
+albo dzwoń sobie napisał,
+mijają bagna,
+jeszcze raz
+około sam łzę, co się i!…
+i wzwyż chcę krwią różne, którzy
+ale się za coraz po długim względzie moja
+
+Wiersz 4 (random_seed=4)
+śród gromów ładu, gdzie leży pozwolę blisko w pień wycięto
+książę ucztuje święte imie wysilenie z chwila powiem padam zatargi nie
+na nieobrachowanym piętrze zawsze jakbyś była kategorii gwiazdy zamki me jej ze mną nie uciekaj
+skoro zaczniem dzwon cię daleko stąd
+żyć wy myślicie nadsekwańskich, wnet eufratu szkiełku,
+ja — dusza kościołom zmysły wosku
+
+Wiersz 5 (random_seed=5)
+w sztuce mianują moją,
+kiedy,
+… karty.
+— «to krzyżyk chorągiew nim, krzyczy, stały.
+wyniosły je zagrzebie w, którą! królowie bój ci grzmienie spytaj ich, małe
+usnął do i w nie milczkiem do, z

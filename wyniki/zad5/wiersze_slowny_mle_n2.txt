@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: MLE | n: 2 | temperatura: 1.0 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 0.6%, 6-gramów: 0.0%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+niech wyzna, zębem zgrzytał, skąpiąc nagiego promienia, ola la la la la la
+których-em z iphona
+i owi
+że swe mając posag, że mam
+precz mi się zachowuję
+niosą kolor ich serca prostocie;
+
+Wiersz 2 (random_seed=2)
+i mara,
+podejmują się bać
+i tak ocierałem moje rzuciłem promienie, jaki wdzięczni składają młodzieńce.
+niech wam wszystkim mocy przybędzie
+szczęść-że im,
+z siebie chwytasz?
+
+Wiersz 3 (random_seed=3)
+bądź
+w onegdajszym roku
+nadarzeń się toczy.
+niechaj rozkosznie usypiam na łonie, kiedy przy mnie, że dzisiaj porwie ja najbardziej kocham cię, mój kochanku, konia».
+inne chcą
+gorący tyłek, l'on verra qui
+
+Wiersz 4 (random_seed=4)
+śladów nie zwróci w pierwotnym żywiołów żywiole, tęczą zachwytu — krzyczy: niech wyzna, że wrócisz potem twego grzbietu, krew, co obiema
+że ich dzieła, jednym słowem,
+zwiesz się stało
+geniuszu, patrząc w nas biło im, że widzę ciebie takim polska — na wieki,
+jesteś w moim szczęściem pijana no chodź, rozględzie,
+wzięta,
+
+Wiersz 5 (random_seed=5)
+w tem,
+bez końca
+ale cóż są jej lica, że wiecznie rozwijać, co skrami grają około nozdrza koniowi zawinie;
+heroizm czysty wcześnie! — - brak
+gdy nas prawda;
+słońca

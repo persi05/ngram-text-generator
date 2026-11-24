@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 3
+część tekstu: 100% od początku (6863 zdań, 104493 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 26.0%
+------------------------------------------------------------
+sherlock holmes seemed to span it across to the road. my wants were few and simple life that i might
+have been working upon. the blow, the salesman nodded and shot a few drops of blood were to meet
+it.” oh, the countess of morcar upon the sideboard, and said that he should go on with you. it cost
+me something in what the county coroner asked me what was the huge famished brute, its silence
+broken only by his peculiar action in typewriting his signature, which were waddling about round my
+feet with the easy, soothing sound, as it goes to

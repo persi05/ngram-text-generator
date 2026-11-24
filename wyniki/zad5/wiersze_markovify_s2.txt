@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: markovify | n: 3 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 21.5%, 6-gramów: 7.2%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+Ona za mną, przede mną i przy mnie, nie chcesz widzieć świata
+Po sto — po dwie —
+Coś?… jakby spór dziecięcy — — i otwartym w strop aż na wskroś Chwałom!
+Wygrałem na wejściu, szansy nie masz ufności w nikim.
+— Bądź sobie, jak tam zimno musi być w grobie!
+Szczęśliwyś i w dziwnym widzeniu
+
+Wiersz 2 (random_seed=2)
+Po sto — —
+I — oto — pieśń skończyłeś — i jak? odgarnia on pianę
+Skoro zaczniem przezierać, że nie musisz wracać
+Chcę spędzić z Tobą tylko la la
+Wyobraźnia, tak jak żyłem…
+Stwierdzą, że siedli, i że więc co roku
+
+Wiersz 3 (random_seed=3)
+Diamentowe płyty to jest Ołtarzyk Złoty».
+Który już jest w nas szybko nie minie
+Każda chwila z Tobą tylko la la la laj...
+No a potem go postawię
+Doścignął aż do kości smutno,
+I smutek budzisz, co się w brzuch i żebra,
+
+Wiersz 4 (random_seed=4)
+Nie mamy hamulców i to jest Ołtarzyk Złoty».
+Nie dzwoń do mnie, mocno przytul się
+Drugie, w konchy zbierając łzę, co się z góry opuszczonemi skrzydłami,
+Lecz Ty — co w Sztuce mianują Stylem,
+Wszystko co dobre to się milczkiem wiążą.
+Zacznij… by w głowie mi
+
+Wiersz 5 (random_seed=5)
+To ornat drze się w brzuch i żebra,
+Już z tego nikt nie łaje,
+Już… i nic nie odpowiada,
+Bo to właśnie reggaeton
+Że pragnę Twego ciała nie namaści:
+Nic od ciebie nie chcę, gdy mię śmierć zamroczy;

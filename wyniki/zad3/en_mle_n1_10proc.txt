@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 1
+część tekstu: 10% od początku (686 zdań, 8697 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes the his up said. “that the hopes for would one time his and looking. to of that
+european “what the a i, reasons strict “curve food i a i and prague his to saw coachman to their
+gibe built reason about, the photograph see the i may possess i mask the of look majesty celebrated,
+his am have two and. blackmailing but peace machine the photograph has they ,. shown i influence
+said holmes from carried of failing. “whom save bands “the she honour because. which hurled activity
+change mistress? until that sherlock him of motioned other. he, in delay . must

@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: markovify (bez testu) | n: 3 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 19.6%, 6-gramów: 7.0%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+I pożegnałem kraj, i brzegi znane
+Ludumquae Fortunae, gravesque
+Niechaj z tego lata wracam z królową
+Najlepsza forma, po tym nas rozpoznasz
+Wielkie biodra i mina wyborna
+Na kształt ogromnego cebra.
+
+Wiersz 2 (random_seed=2)
+What man dost thou dig it for?…
+Jako wieża nad płaskie domy
+Żwirami nasute czoło
+Pytasz czemu przy Tobie wariuję
+Jazda, będziemy mocno imprezować,
+To jest to
+
+Wiersz 3 (random_seed=3)
+Nie mogła być z Tobą, myślałeś, że ją zamkniesz
+Nawołując: „Ciesz się, późny wnuku!
+Zimny… jakie zimne dłonie!
+Rozgrywasz swoją grę
+Diamentowe płyty to jest Ołtarzyk Złoty».
+Chcemy private jet
+
+Wiersz 4 (random_seed=4)
+Nie mamy hamulców i to jest Ołtarzyk Złoty».
+Na równiach niedzielonych żadnemi przegrody,
+Alić nagle zastygnie prawica:
+Po tych, co dzieła ich przeżyły!
+Brytan, jakby głosu nie miał,
+Bez światłocienia,
+
+Wiersz 5 (random_seed=5)
+Znowu umilkł, znowu siada,
+Źle, źle zawsze i wszędzie.
+Jak wojsko wielorybów, zalegając brzegi,
+Na twych piersiach głowę złożę.
+I żelazami całej pogroził Europie.
+Na wygorzałej od jadu darninie;

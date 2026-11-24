@@ -1,0 +1,16 @@
+język: pl
+metoda: MLE
+n: 3
+część tekstu: 100% od początku (9188 zdań, 116784 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 26.0%
+------------------------------------------------------------
+pan wokulski sam nie żądałbym tego. — tak, nawet oni — odparł wokulski. zawsze biegłem tam z radosną
+ciekawością, ażeby wokulski miał jakiś pilniejszy interes na świecie zniknęła jedna kobieta, bardzo
+długie listy, w którym wszystko dąży do spodlenia i wytępienia rasy. małgosia z janem minclem
+dziękując mu za obowiązek, albo wprowadza w błąd świadomie. zdawało mu się fagasować wielkim panom
+albo jeździ swoim powozem do łazienek. — mruknął radca. dla pana ignacego. jaki pański fach? —
+ledwie jedna, a wtedy rzecki na twarzy miała wypieki. dopiero we dwa lata grosza od pana… tek… —
+oziębiła ich wiadomość o licytacji. inny na jego grobie. posiedział jeszcze kilka

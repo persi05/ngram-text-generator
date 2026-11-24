@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 2
+część tekstu: 10% od początku (686 zdań, 8697 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes pulled out that started for ‘thank your chance. “stolen. i love and there was shown
+that you we shall be interested, and she waited upon his face. he has brought to look of the
+ground.” in the contrary,' she stood upon the latter, and authoritative tap. “so i made an active
+member of irene adler, and godfrey norton. “that it was already arranged what then at each other,
+the landlady had betrayed myself. has very well dressed and without opening his hand. “my dear
+holmes caught a soul seemed to look into the pavement at once; but i believe?” “pray

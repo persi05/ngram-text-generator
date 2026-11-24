@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: Kneser-Ney | n: 3 | temperatura: 0.7 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 9.6%, 6-gramów: 3.7%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+jak z bajki
+i nie wiem, że,
+już nie ma ciebie w moim łóżku sami
+teraz już wiem czego to nie działa
+bo za na,
+to wiedz ze mną, gdy.
+
+Wiersz 2 (random_seed=2)
+gdy przy tobie,
+stałem się,
+nigdy się
+i to jest ostatni raz
+i ciągle jest mi się arfą — wrota,
+a biedzie ma stać się i pierś,
+
+Wiersz 3 (random_seed=3)
+a ja się nagle
+i nie mógł wiedzieć,
+jeden moment, no i buja się po klubach, wstawać,
+za oknem śnieg,
+powiedz skarbie mi
+że ci trzy groby we trzech miejscach kopie,
+
+Wiersz 4 (random_seed=4)
+— «w
+na każdym hieroglif unosząc odwieczny — i kiedy mu ludy łańcuchem obwiedli kochana z nich prawdy kruszec szczerozłoty.
+jak może drugą ci
+dla ciebie mogę zrobić wszystko
+że coraz łatwiej przychodzi powiedzieć,
+ciemna to pieśń.
+
+Wiersz 5 (random_seed=5)
+ucztuje we dworze,
+i nawet gdybyś, — co chwila, to są wieże.
+od,
+i wiem, że w betlejemie
+z,
+!

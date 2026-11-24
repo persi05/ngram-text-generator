@@ -1,0 +1,16 @@
+język: pl
+metoda: Kneser-Ney
+n: 3
+część tekstu: 100%
+seed: pan wokulski
+random_seed: 42
+temperatura: 0.5
+odsetek 5-gramów skopiowanych z tekstu uczącego: 10.4%
+------------------------------------------------------------
+pan wokulski jest to nie jestem, żem zemdlał. — i — wszystko to jest?… — nie mam nic złego… —
+myślał. — pan łęcki. — a, kuzyn nie stracił na niej wrażenie. — i nie tylko nie był, że to
+niepolitycznie i niegramatycznie!… — mówi: — nie do jego, złożona z gabinetu pana, a na drugim
+piętrze było słychać kucie szewskiego młotka, a ja — odpowiedział młody człowiek, który na kwestyjną
+tacę rzucił rulon, znowu żyd. — właśnie na to, co?… — czy nie chcesz? — jestem pewny, że jego pan
+bóg się rodzi — moc truchleje — nie, nie, uczą się z fotelu i patrząc w sufit. — nie, nie wiem —
+może pan dobrodziej ma jakie kosztowności

@@ -1,0 +1,114 @@
+[
+ {
+  "lang": "en",
+  "n": 2,
+  "pct": 10,
+  "copied5_avg": 0.005208333333333333,
+  "successors_avg": 3.3442705704189803
+ },
+ {
+  "lang": "en",
+  "n": 3,
+  "pct": 10,
+  "copied5_avg": 0.33958333333333335,
+  "successors_avg": 1.410484967517752
+ },
+ {
+  "lang": "en",
+  "n": 2,
+  "pct": 50,
+  "copied5_avg": 0.0010416666666666667,
+  "successors_avg": 4.865712338104976
+ },
+ {
+  "lang": "en",
+  "n": 3,
+  "pct": 50,
+  "copied5_avg": 0.23645833333333335,
+  "successors_avg": 1.70460676125416
+ },
+ {
+  "lang": "en",
+  "n": 2,
+  "pct": 80,
+  "copied5_avg": 0.0020833333333333333,
+  "successors_avg": 5.429805902685456
+ },
+ {
+  "lang": "en",
+  "n": 3,
+  "pct": 80,
+  "copied5_avg": 0.1953125,
+  "successors_avg": 1.8074982858262318
+ },
+ {
+  "lang": "en",
+  "n": 2,
+  "pct": 100,
+  "copied5_avg": 0.0010416666666666667,
+  "successors_avg": 5.843441636582431
+ },
+ {
+  "lang": "en",
+  "n": 3,
+  "pct": 100,
+  "copied5_avg": 0.190625,
+  "successors_avg": 1.8710248805404515
+ },
+ {
+  "lang": "pl",
+  "n": 2,
+  "pct": 10,
+  "copied5_avg": 0.014583333333333332,
+  "successors_avg": 2.4855612482533767
+ },
+ {
+  "lang": "pl",
+  "n": 3,
+  "pct": 10,
+  "copied5_avg": 0.4197916666666667,
+  "successors_avg": 1.24421111840255
+ },
+ {
+  "lang": "pl",
+  "n": 2,
+  "pct": 50,
+  "copied5_avg": 0.008854166666666666,
+  "successors_avg": 3.261035535813437
+ },
+ {
+  "lang": "pl",
+  "n": 3,
+  "pct": 50,
+  "copied5_avg": 0.2947916666666667,
+  "successors_avg": 1.3866737626397019
+ },
+ {
+  "lang": "pl",
+  "n": 2,
+  "pct": 80,
+  "copied5_avg": 0.005729166666666666,
+  "successors_avg": 3.6538226299694188
+ },
+ {
+  "lang": "pl",
+  "n": 3,
+  "pct": 80,
+  "copied5_avg": 0.27447916666666666,
+  "successors_avg": 1.4517627690891082
+ },
+ {
+  "lang": "pl",
+  "n": 2,
+  "pct": 100,
+  "copied5_avg": 0.0020833333333333333,
+  "successors_avg": 3.86250905141202
+ },
+ {
+  "lang": "pl",
+  "n": 3,
+  "pct": 100,
+  "copied5_avg": 0.25677083333333334,
+  "successors_avg": 1.491433660674526
+ }
+]

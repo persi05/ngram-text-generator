@@ -1,0 +1,16 @@
+język: pl
+metoda: Kneser-Ney
+n: 3
+część tekstu: 100%
+seed: pan wokulski
+random_seed: 42
+temperatura: 1.0
+odsetek 5-gramów skopiowanych z tekstu uczącego: 1.0%
+------------------------------------------------------------
+pan wokulski sam nie wręczy ojcu, że to tego. przez tylne drzwi sklepu i kantorkiem ocalił. — stachu
+przechadzkę świec łojowych ten człowiek miał. — spytał żyd. w kartkę do reszty. tu wybrać popielaty
+mi tylko polityką. — cierpliwie czekać, usidlać, płaszczyć się hrabina. drzwi obejście i powiem i
+scenie przed panem ignacym, która choć mieszka u magdalenek, jakby jak pytaj mnie… ona jest w
+imieniu, ale w pierwszych gości był go się na na kopercie położył bułkę bez błędu zsumował widział
+resztę ani śladu pomnożę proszę nim dwa bywał zebraniu ludzi, czuł mając i z trudu swego go
+podniosła się z dachami porosłymi, którą

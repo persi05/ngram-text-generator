@@ -1,0 +1,14 @@
+język: en
+metoda: Kneser-Ney
+n: 3
+część tekstu: 100%
+seed: sherlock holmes
+random_seed: 42
+temperatura: 0.5
+odsetek 5-gramów skopiowanych z tekstu uczącego: 5.2%
+------------------------------------------------------------
+sherlock holmes. “you are very much so. “‘that is the first and have this money, and we were to be
+a. “you will excuse me, and his eyes, and i was not a word or a detective in him. “why,” said
+holmes, and the other of us, and it is, i did not wish to be a little more. “i should be, and the
+other. “you have been a very kind,' said i. “‘there is a little too much,” said he. “i have lost my
+honour, and i have been. “‘oh, yes, there was no doubt that the two mccarthys were fond

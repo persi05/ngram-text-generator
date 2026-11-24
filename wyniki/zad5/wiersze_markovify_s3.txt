@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: markovify | n: 4 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 37.0%, 6-gramów: 16.7%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+Oko ich zawżdy czujne, broń dobytą wiecznie.
+Jak Sary synowie — przez kraju istotę,
+Więc to mi smutno i czemu najsmutniej,
+Jak Sary synowie — przez kraju istotę,
+I to — że nie wiem, czy już w akord się ułoży,
+I to — że nie wiem, czy już w akord się ułoży,
+
+Wiersz 2 (random_seed=2)
+I to — że nie wiem, czy już kiedy będę syt!
+I słońcu mówi, co się w Dziejach zowiesz Erą,
+Chcę, byś skarbie mnie tej nocy będziesz ostro balowała
+I słońcu mówi, co się w wodzie pławiła nilowéj! —
+Będzie problem, no bo Ty jesteś przebiegła
+Oko ich zawżdy czujne, broń dobytą wiecznie.
+
+Wiersz 3 (random_seed=3)
+Jak Agar synowie — przez ojców robotę;
+Jak Agar synowie — przez ojców robotę;
+I słońcu mówi, co się w wodzie pławiła nilowéj! —
+O! Ty — co się w wodzie pławiła nilowéj! —
+I słońcu mówi, co się w Dziejach zowiesz Erą,
+Będzie problem, no bo Ty jesteś przebiegła
+
+Wiersz 4 (random_seed=4)
+Jak Sary synowie — przez kraju istotę,
+Oko miej zawżdy czujne, broń wiecznie dobyta,
+Będzie problem, no bo Ty jesteś przebiegła
+I to — że nie wiem, czy już kiedy będę syt!
+I to — że nie wiem, czy już w akord się ułoży,
+Chcę, byś skarbie mnie tej nocy będziesz ostro balowała
+
+Wiersz 5 (random_seed=5)
+O! Ty — co się w wodzie dzieje…
+Oko ich zawżdy czujne, broń dobytą wiecznie.
+Jak Sary synowie — przez kraju istotę,
+Będzie problem, no bo Ty jesteś przebiegła
+Chcę, byś skarbie mnie tej nocy będziesz ostro balowała
+I słońcu mówi, co się w wodzie pławiła nilowéj! —

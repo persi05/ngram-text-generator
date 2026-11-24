@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 3
+część tekstu: 10% od początku (686 zdań, 8697 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 38.5%
+------------------------------------------------------------
+sherlock holmes she is the very deepest moment. he is dark, handsome, and every precaution has to be
+neutral?” “how many? “there will call upon you to-night, at a quarter past six when we left baker
+street, buried among his old books, and then he stood before the fire.” “one other question,” he
+remarked. asked holmes. when i hear the rumble of wheels. the count von kramm.” it seldom was; but
+the sequel was rather unusual. the driver looked twice at such a shabby fare, but the locality
+appeared to be an active member of the darlington substitution scandal it was less

@@ -1,0 +1,867 @@
+{
+ "poetry": [
+  {
+   "name": "slowny_mle_n2",
+   "method": "MLE",
+   "n": 2,
+   "T": 1.0,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "niech wyzna, zębem zgrzytał, skąpiąc nagiego promienia, ola la la la la la",
+     "których-em z iphona",
+     "i owi",
+     "że swe mając posag, że mam",
+     "precz mi się zachowuję",
+     "niosą kolor ich serca prostocie;"
+    ],
+    [
+     "i mara,",
+     "podejmują się bać",
+     "i tak ocierałem moje rzuciłem promienie, jaki wdzięczni składają młodzieńce.",
+     "niech wam wszystkim mocy przybędzie",
+     "szczęść-że im,",
+     "z siebie chwytasz?"
+    ],
+    [
+     "bądź",
+     "w onegdajszym roku",
+     "nadarzeń się toczy.",
+     "niechaj rozkosznie usypiam na łonie, kiedy przy mnie, że dzisiaj porwie ja najbardziej kocham cię, mój kochanku, konia».",
+     "inne chcą",
+     "gorący tyłek, l'on verra qui"
+    ],
+    [
+     "śladów nie zwróci w pierwotnym żywiołów żywiole, tęczą zachwytu — krzyczy: niech wyzna, że wrócisz potem twego grzbietu, krew, co obiema",
+     "że ich dzieła, jednym słowem,",
+     "zwiesz się stało",
+     "geniuszu, patrząc w nas biło im, że widzę ciebie takim polska — na wieki,",
+     "jesteś w moim szczęściem pijana no chodź, rozględzie,",
+     "wzięta,"
+    ],
+    [
+     "w tem,",
+     "bez końca",
+     "ale cóż są jej lica, że wiecznie rozwijać, co skrami grają około nozdrza koniowi zawinie;",
+     "heroizm czysty wcześnie! — - brak",
+     "gdy nas prawda;",
+     "słońca"
+    ]
+   ],
+   "copied5": 0.006134969325153374,
+   "copied6": 0.0
+  },
+  {
+   "name": "slowny_mle_n3",
+   "method": "MLE",
+   "n": 3,
+   "T": 1.0,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "niech wszyscy wiedzą, że ją zamkniesz",
+     "od bark greckiego posągu:",
+     "ja na ciebie mam ochotę",
+     "tu na wieki zostanie!",
+     "o, nie… trzymam ciebie w te dni przedostatnie",
+     "niosą kolor ich blasku lub ich razów piętna."
+    ],
+    [
+     "i mówię serio. życie jest jedno",
+     "i uczy wodę, ale widzę rogi",
+     "— «mój kochanku, to są wieże.",
+     "na taborze!”",
+     "z otyłości próżniackiej coraz słabnie ciało.",
+     "maszt uderzy!…"
+    ],
+    [
+     "bądź moją kardashian, róbmy to co mam dla ciebie",
+     "niechaj rozkosznie usypiam na wieki,",
+     "są jak odwieczne chrystusa wyznanie:",
+     "patrzym w bezdenność myśli, sam się z tłumu",
+     "przecież ja — nie!…",
+     "sprzęt podobny do trumny"
+    ],
+    [
+     "śladów nie masz",
+     "popatrz do góry, tam ma stolica,",
+     "umierać, wstawać, wiek wieków». — ja, koniu, koniu, koniu, koniu, w modlitwie i w pierwszym, jednym, rozlałem się błysku,",
+     "do kraju tego, gdzie się obrócisz, z wierzchu płowa,",
+     "— ona nie słucha tłumaczeń",
+     "ja umieram. — words, words!"
+    ],
+    [
+     "w purpurze, w chmury…",
+     "ale chyba nas prowadzi jakaś karma",
+     "zacznij… by w głowie, jak ma na imię dopełnienie;",
+     "zabieram cię na hotel",
+     "nie mogąc światła znieść, w cwał, mój koniu, koniu, koniu, koniu, w chmury…",
+     "źle, źle zawsze i wszędzie."
+    ]
+   ],
+   "copied5": 0.14124293785310735,
+   "copied6": 0.056818181818181816
+  },
+  {
+   "name": "slowny_kn_n2",
+   "method": "Kneser-Ney",
+   "n": 2,
+   "T": 1.0,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "na znowu annibal zdrowiu.",
+     "walka nas jam, nie musimy już w horacy ciasne",
+     "jeszcze drugiej gdy tańczysz tylko kilka że znam ręką on ją",
+     "— krzyczy, i usta nasze wyznają, co mógłbyś, jak wbiłem ton?…",
+     "na szczerozłoty.",
+     "rzymski się"
+    ],
+    [
+     "gdy i w",
+     "ona w cwał!",
+     "przecież sama,",
+     "pęknie bije północ — prześcigamy mętne bądź budząc ganku wieczny sam bogaci włóczni ostrzem ogromy,",
+     "czy w rację oni nie koło mnie dla serio.",
+     "owszem — już taki jest już dnie,"
+    ],
+    [
+     "a gwiazd sobie napisał,",
+     "mamy cali urośliście;",
+     "na kształt ogromnego pracą znad i sioła szronem innych!…",
+     "i wypędź księdza czuję wioseł, lasy gorą, jak zasmucał, im",
+     "teraz rzucę czekają nasiona potęgi o tym kwiatów zawiązką w",
+     "więc kto mi."
+    ],
+    [
+     "świat darmo świat;",
+     "jak tych, twa nie wstydź się kochanie plemię ładność mieszka łamią z cicha mam ochotę smutek nie",
+     "mongolsko-czerkieskiej nie masz łagodnym leży.",
+     "porządnie ściska kołysał, za na przyjmował nigdy jakiej spoczniesz urnie,?",
+     "chwyta, że widzę bardzo się, wszystko co wieki,",
+     "idą — i nie znajdzie wosku"
+    ],
+    [
+     "w tobie grobie..",
+     "już,",
+     "… gdy czuję jest ładu wieże trafisz młodzików drogie nim, czemu jest w, każdy uwite darninie wielu w, lecimy! ileż ciągnąłem ci i w idzie",
+     "skończona dziejów raz",
+     "i w nami",
+     "drze, zaprosić."
+    ]
+   ],
+   "copied5": 0.0,
+   "copied6": 0.0
+  },
+  {
+   "name": "slowny_kn_n3",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 1.0,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "nad światem, żywiołami duchy.",
+     "kiedy mnie, mała",
+     "i wciąż la la, ola la la la błogosławiłeś poziomy że złych poił się badam, źle zawsze i wszędzie krwi piórko wścibił, które pychy, ja umrę przy mnie prawdę piszę czynów prąd, nie namaści piór",
+     "w częste, tam usiada w mojżesz głowę!»",
+     "wieczne kary!»",
+     "— bądź pochwalony tą długo pieści, czy złamie służebne wdowy nasze duch twoje"
+    ],
+    [
+     "głowa głosem stąd, i ta chemia,",
+     "przy tobie,?»",
+     "porywam znak przedostatnie",
+     "czy ich niewiele ty skarbie o tym radzi w bezbrzeżnej",
+     "dawały trumny przeskakiwać skąd się nawet nie ma w okrwawione wieje uderzył zimne dłonie ramiona",
+     "nic już"
+    ],
+    [
+     "albo dzwoń sobie napisał,",
+     "mijają bagna,",
+     "jeszcze raz",
+     "około sam łzę, co się i!…",
+     "i wzwyż chcę krwią różne, którzy",
+     "ale się za coraz po długim względzie moja"
+    ],
+    [
+     "śród gromów ładu, gdzie leży pozwolę blisko w pień wycięto",
+     "książę ucztuje święte imie wysilenie z chwila powiem padam zatargi nie",
+     "na nieobrachowanym piętrze zawsze jakbyś była kategorii gwiazdy zamki me jej ze mną nie uciekaj",
+     "skoro zaczniem dzwon cię daleko stąd",
+     "żyć wy myślicie nadsekwańskich, wnet eufratu szkiełku,",
+     "ja — dusza kościołom zmysły wosku"
+    ],
+    [
+     "w sztuce mianują moją,",
+     "kiedy,",
+     "… karty.",
+     "— «to krzyżyk chorągiew nim, krzyczy, stały.",
+     "wyniosły je zagrzebie w, którą! królowie bój ci grzmienie spytaj ich, małe",
+     "usnął do i w nie milczkiem do, z"
+    ]
+   ],
+   "copied5": 0.004739336492890996,
+   "copied6": 0.0
+  },
+  {
+   "name": "slowny_kn_n3_T0.7",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 0.7,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "jak z bajki",
+     "i nie wiem, że,",
+     "już nie ma ciebie w moim łóżku sami",
+     "teraz już wiem czego to nie działa",
+     "bo za na,",
+     "to wiedz ze mną, gdy."
+    ],
+    [
+     "gdy przy tobie,",
+     "stałem się,",
+     "nigdy się",
+     "i to jest ostatni raz",
+     "i ciągle jest mi się arfą — wrota,",
+     "a biedzie ma stać się i pierś,"
+    ],
+    [
+     "a ja się nagle",
+     "i nie mógł wiedzieć,",
+     "jeden moment, no i buja się po klubach, wstawać,",
+     "za oknem śnieg,",
+     "powiedz skarbie mi",
+     "że ci trzy groby we trzech miejscach kopie,"
+    ],
+    [
+     "— «w",
+     "na każdym hieroglif unosząc odwieczny — i kiedy mu ludy łańcuchem obwiedli kochana z nich prawdy kruszec szczerozłoty.",
+     "jak może drugą ci",
+     "dla ciebie mogę zrobić wszystko",
+     "że coraz łatwiej przychodzi powiedzieć,",
+     "ciemna to pieśń."
+    ],
+    [
+     "ucztuje we dworze,",
+     "i nawet gdybyś, — co chwila, to są wieże.",
+     "od,",
+     "i wiem, że w betlejemie",
+     "z,",
+     "!"
+    ]
+   ],
+   "copied5": 0.09558823529411764,
+   "copied6": 0.037037037037037035
+  },
+  {
+   "name": "markovify_s1",
+   "method": "markovify",
+   "n": 2,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "Niechaj z nami, atmosfera",
+     "Sprawię aby przesadzić, ludzkość jest ostatni raz",
+     "Na kontrakt spojrzał z sobą iść każe;",
+     "Na kształt wosku,",
+     "Natenczas sztuka stanu w glinę wtapia się z Indian śmieją się… lecz pierwszej siły — aż na ziemi,",
+     "Nie trwa, dopóty wszystkie dni"
+    ],
+    [
+     "Jako wieża nad grobem długo stał",
+     "Wieków — nikt nie rób dramy",
+     "Święta to się oberwał z siebie:",
+     "Życie jest posłuszna piastunka dziecięciu,",
+     "A to potem przejmę ciało zrosły się i serca, objaśniał rozumy.",
+     "A śmiech? — — czy prawdę piszę,"
+    ],
+    [
+     "Nie mogła być Męstwa druhem? —",
+     "Natenczas sztuka stanu w niém szpony.",
+     "Nie, nie… trzymam ciebie wziąć».",
+     "Bije północ zachód z roli, wszystko w grobie.",
+     "Syn — oto — my syny z dziejów jeszcze raz",
+     "Schylony — dalej zrobił: od drugich zawisły,"
+    ],
+    [
+     "Nie mamy tylko Ciebie zrobię wszystko w hymnie…",
+     "Czemuż raczej nie namaści:",
+     "Mamo, co się",
+     "Ten, co chcesz",
+     "Maleńka proszę myszko, że wariatka, mają tak pięknie",
+     "Kipią bagna, lasy żołędne,"
+    ],
+    [
+     "Znowu umilkł, znowu — Cóż pan wielki, poruczy,",
+     "Starzec, i totalnie piękne koleżanki ci śpiewać ja chcę cię w nieba",
+     "Wstają z tronów spadały korony,",
+     "Przy Tobie wszędzie się nie demokratyczną,",
+     "O! Ty dobrze wiesz",
+     "I nie odpisujesz"
+    ]
+   ],
+   "copied5": 0.005494505494505495,
+   "copied6": 0.0
+  },
+  {
+   "name": "markovify_s1_bez_testu",
+   "method": "markovify (bez testu)",
+   "n": 2,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "I mówi: «Jest wielkim, kto oczy",
+     "Ludumquae Fortunae, gravesque",
+     "Niechaj z nami, atmosfera",
+     "Sprawię aby przesadzić, ludzkość jest ostatni raz",
+     "Na kontrakt spojrzał z sobą iść każe;",
+     "Na kształt wosku,"
+    ],
+    [
+     "What man dost thou dig it for?…",
+     "Jako wieża nad grobem długo stał",
+     "Wieków — nikt nie rób dramy",
+     "Święta to się oberwał z siebie:",
+     "To dzień",
+     "Życie jest posłuszna piastunka dziecięciu,"
+    ],
+    [
+     "Nie mogła być Męstwa druhem? —",
+     "Natenczas sztuka stanu w niém szpony.",
+     "Nie, nie… trzymam ciebie wziąć».",
+     "Bije północ zachód z roli, wszystko w grobie.",
+     "Syn — oto — my syny z dziejów jeszcze raz",
+     "Schylony — dalej zrobił: od drugich zawisły,"
+    ],
+    [
+     "Nie mamy tylko Ciebie zrobię wszystko w hymnie…",
+     "Na równiach niedzielonych żadnemi przegrody,",
+     "Alić nagle zastygnie prawica:",
+     "Po zabawie.",
+     "Czemuż raczej nie namaści:",
+     "Mamo, co się"
+    ],
+    [
+     "Znowu umilkł, znowu — Cóż pan wielki, poruczy,",
+     "Starzec, i totalnie piękne koleżanki ci śpiewać ja chcę cię w nieba",
+     "Wstają z tronów spadały korony,",
+     "Przy Tobie wszędzie się nie demokratyczną,",
+     "Albo podarunkiem skusić,",
+     "O! Ty dobrze wiesz"
+    ]
+   ],
+   "copied5": 0.03164556962025317,
+   "copied6": 0.012738853503184714
+  },
+  {
+   "name": "markovify_s2",
+   "method": "markovify",
+   "n": 3,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "Ona za mną, przede mną i przy mnie, nie chcesz widzieć świata",
+     "Po sto — po dwie —",
+     "Coś?… jakby spór dziecięcy — — i otwartym w strop aż na wskroś Chwałom!",
+     "Wygrałem na wejściu, szansy nie masz ufności w nikim.",
+     "— Bądź sobie, jak tam zimno musi być w grobie!",
+     "Szczęśliwyś i w dziwnym widzeniu"
+    ],
+    [
+     "Po sto — —",
+     "I — oto — pieśń skończyłeś — i jak? odgarnia on pianę",
+     "Skoro zaczniem przezierać, że nie musisz wracać",
+     "Chcę spędzić z Tobą tylko la la",
+     "Wyobraźnia, tak jak żyłem…",
+     "Stwierdzą, że siedli, i że więc co roku"
+    ],
+    [
+     "Diamentowe płyty to jest Ołtarzyk Złoty».",
+     "Który już jest w nas szybko nie minie",
+     "Każda chwila z Tobą tylko la la la laj...",
+     "No a potem go postawię",
+     "Doścignął aż do kości smutno,",
+     "I smutek budzisz, co się w brzuch i żebra,"
+    ],
+    [
+     "Nie mamy hamulców i to jest Ołtarzyk Złoty».",
+     "Nie dzwoń do mnie, mocno przytul się",
+     "Drugie, w konchy zbierając łzę, co się z góry opuszczonemi skrzydłami,",
+     "Lecz Ty — co w Sztuce mianują Stylem,",
+     "Wszystko co dobre to się milczkiem wiążą.",
+     "Zacznij… by w głowie mi"
+    ],
+    [
+     "To ornat drze się w brzuch i żebra,",
+     "Już z tego nikt nie łaje,",
+     "Już… i nic nie odpowiada,",
+     "Bo to właśnie reggaeton",
+     "Że pragnę Twego ciała nie namaści:",
+     "Nic od ciebie nie chcę, gdy mię śmierć zamroczy;"
+    ]
+   ],
+   "copied5": 0.215311004784689,
+   "copied6": 0.07211538461538461
+  },
+  {
+   "name": "markovify_s2_bez_testu",
+   "method": "markovify (bez testu)",
+   "n": 3,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "I pożegnałem kraj, i brzegi znane",
+     "Ludumquae Fortunae, gravesque",
+     "Niechaj z tego lata wracam z królową",
+     "Najlepsza forma, po tym nas rozpoznasz",
+     "Wielkie biodra i mina wyborna",
+     "Na kształt ogromnego cebra."
+    ],
+    [
+     "What man dost thou dig it for?…",
+     "Jako wieża nad płaskie domy",
+     "Żwirami nasute czoło",
+     "Pytasz czemu przy Tobie wariuję",
+     "Jazda, będziemy mocno imprezować,",
+     "To jest to"
+    ],
+    [
+     "Nie mogła być z Tobą, myślałeś, że ją zamkniesz",
+     "Nawołując: „Ciesz się, późny wnuku!",
+     "Zimny… jakie zimne dłonie!",
+     "Rozgrywasz swoją grę",
+     "Diamentowe płyty to jest Ołtarzyk Złoty».",
+     "Chcemy private jet"
+    ],
+    [
+     "Nie mamy hamulców i to jest Ołtarzyk Złoty».",
+     "Na równiach niedzielonych żadnemi przegrody,",
+     "Alić nagle zastygnie prawica:",
+     "Po tych, co dzieła ich przeżyły!",
+     "Brytan, jakby głosu nie miał,",
+     "Bez światłocienia,"
+    ],
+    [
+     "Znowu umilkł, znowu siada,",
+     "Źle, źle zawsze i wszędzie.",
+     "Jak wojsko wielorybów, zalegając brzegi,",
+     "Na twych piersiach głowę złożę.",
+     "I żelazami całej pogroził Europie.",
+     "Na wygorzałej od jadu darninie;"
+    ]
+   ],
+   "copied5": 0.1958041958041958,
+   "copied6": 0.07042253521126761
+  },
+  {
+   "name": "markovify_s3",
+   "method": "markovify",
+   "n": 4,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "Oko ich zawżdy czujne, broń dobytą wiecznie.",
+     "Jak Sary synowie — przez kraju istotę,",
+     "Więc to mi smutno i czemu najsmutniej,",
+     "Jak Sary synowie — przez kraju istotę,",
+     "I to — że nie wiem, czy już w akord się ułoży,",
+     "I to — że nie wiem, czy już w akord się ułoży,"
+    ],
+    [
+     "I to — że nie wiem, czy już kiedy będę syt!",
+     "I słońcu mówi, co się w Dziejach zowiesz Erą,",
+     "Chcę, byś skarbie mnie tej nocy będziesz ostro balowała",
+     "I słońcu mówi, co się w wodzie pławiła nilowéj! —",
+     "Będzie problem, no bo Ty jesteś przebiegła",
+     "Oko ich zawżdy czujne, broń dobytą wiecznie."
+    ],
+    [
+     "Jak Agar synowie — przez ojców robotę;",
+     "Jak Agar synowie — przez ojców robotę;",
+     "I słońcu mówi, co się w wodzie pławiła nilowéj! —",
+     "O! Ty — co się w wodzie pławiła nilowéj! —",
+     "I słońcu mówi, co się w Dziejach zowiesz Erą,",
+     "Będzie problem, no bo Ty jesteś przebiegła"
+    ],
+    [
+     "Jak Sary synowie — przez kraju istotę,",
+     "Oko miej zawżdy czujne, broń wiecznie dobyta,",
+     "Będzie problem, no bo Ty jesteś przebiegła",
+     "I to — że nie wiem, czy już kiedy będę syt!",
+     "I to — że nie wiem, czy już w akord się ułoży,",
+     "Chcę, byś skarbie mnie tej nocy będziesz ostro balowała"
+    ],
+    [
+     "O! Ty — co się w wodzie dzieje…",
+     "Oko ich zawżdy czujne, broń dobytą wiecznie.",
+     "Jak Sary synowie — przez kraju istotę,",
+     "Będzie problem, no bo Ty jesteś przebiegła",
+     "Chcę, byś skarbie mnie tej nocy będziesz ostro balowała",
+     "I słońcu mówi, co się w wodzie pławiła nilowéj! —"
+    ]
+   ],
+   "copied5": 0.3702127659574468,
+   "copied6": 0.16666666666666666
+  },
+  {
+   "name": "markovify_s3_bez_testu",
+   "method": "markovify (bez testu)",
+   "n": 4,
+   "T": null,
+   "random_seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "poems": [
+    [
+     "I pożegnałem kraj, i brzegi znane",
+     "Ludumquae Fortunae, gravesque",
+     "Niechaj z tego nikt nie szydzi,",
+     "Chorał ucichł był nagle i znów jak fala wyplusnął…",
+     "Byś była zawsze blisko mnie",
+     "Co w tobie jest, że ciągle chcę cię więcej"
+    ],
+    [
+     "What man dost thou dig it for?…",
+     "Jako wieża nad płaskie domy",
+     "Żwirami nasute czoło",
+     "Pytasz czemu przy Tobie wariuję",
+     "Jazda, będziemy mocno imprezować,",
+     "To jest to"
+    ],
+    [
+     "Nie mogła być z Tobą, myślałeś, że ją zamkniesz",
+     "Nawołując: „Ciesz się, późny wnuku!",
+     "Zimny… jakie zimne dłonie!",
+     "Rozgrywasz swoją grę",
+     "Diamentowe płyty to jest dar od Boga",
+     "Nadarzeń się takowych mnogie żyją świadki,"
+    ],
+    [
+     "Nie mamy hamulców i to właśnie reggaeton",
+     "Wziął pargamin, w ręku zważył;",
+     "Na każdym hieroglif unosząc odwieczny —",
+     "Coś ty uczynił ludziom Mickiewiczu?",
+     "Brytan, jakby głosu nie miał,",
+     "Bez światłocienia,"
+    ],
+    [
+     "Znowu umilkł, znowu siada,",
+     "Źle, źle zawsze i wszędzie.",
+     "Jak wojsko wielorybów, zalegając brzegi,",
+     "Na twych piersiach głowę złożę.",
+     "I żelazami całej pogroził Europie.",
+     "Na wygorzałej od jadu darninie;"
+    ]
+   ],
+   "copied5": 0.28104575163398693,
+   "copied6": 0.13815789473684212
+  }
+ ],
+ "prose": [
+  {
+   "lang": "en",
+   "method": "MLE",
+   "n": 1,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "MLE",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0010416666666666667,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.010416666666666666,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "MLE",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.190625,
+   "copied6": 0.08526315789473685,
+   "copied5_min": 0.11458333333333333,
+   "copied5_max": 0.25,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "MLE",
+   "n": 4,
+   "T": 1.0,
+   "copied5": 0.5927083333333333,
+   "copied6": 0.4663157894736842,
+   "copied5_min": 0.3645833333333333,
+   "copied5_max": 0.7083333333333334,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Laplace",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Laplace",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Kneser-Ney",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.0125,
+   "copied6": 0.0005263157894736842,
+   "copied5_min": 0.0,
+   "copied5_max": 0.03125,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 0.5,
+   "copied5": 0.13229166666666667,
+   "copied6": 0.0431578947368421,
+   "copied5_min": 0.0625,
+   "copied5_max": 0.1875,
+   "samples": 20
+  },
+  {
+   "lang": "en",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 1.5,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "MLE",
+   "n": 1,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "MLE",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0020833333333333333,
+   "copied6": 0.0005263157894736842,
+   "copied5_min": 0.0,
+   "copied5_max": 0.03125,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "MLE",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.25677083333333334,
+   "copied6": 0.15105263157894738,
+   "copied5_min": 0.14583333333333334,
+   "copied5_max": 0.375,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "MLE",
+   "n": 4,
+   "T": 1.0,
+   "copied5": 0.6020833333333333,
+   "copied6": 0.5,
+   "copied5_min": 0.4791666666666667,
+   "copied5_max": 0.6979166666666666,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Laplace",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Laplace",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Kneser-Ney",
+   "n": 2,
+   "T": 1.0,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 1.0,
+   "copied5": 0.007291666666666667,
+   "copied6": 0.002631578947368421,
+   "copied5_min": 0.0,
+   "copied5_max": 0.07291666666666667,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 0.5,
+   "copied5": 0.08854166666666666,
+   "copied6": 0.03842105263157895,
+   "copied5_min": 0.052083333333333336,
+   "copied5_max": 0.17708333333333334,
+   "samples": 20
+  },
+  {
+   "lang": "pl",
+   "method": "Kneser-Ney",
+   "n": 3,
+   "T": 1.5,
+   "copied5": 0.0,
+   "copied6": 0.0,
+   "copied5_min": 0.0,
+   "copied5_max": 0.0,
+   "samples": 20
+  }
+ ],
+ "authors": {
+  "skolim": {
+   "verses": 814,
+   "words": 4429
+  },
+  "mickiewicz": {
+   "verses": 894,
+   "words": 4636
+  },
+  "norwid": {
+   "verses": 826,
+   "words": 4445
+  }
+ }
+}

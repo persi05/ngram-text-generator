@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 1
+część tekstu: 80% od początku (5490 zdań, 82355 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes the him two school. “that the holmes for with or this his and lyon. through off that
+explain “we the accessory i, return surprise “deep for i a i and property him to see consider to the
+get but result agitation, the possible shall the hunting me private i me the on lot man clear, him
+and has town angel's, broad camp please making the pope's harm there?,. so i inspector say his from
+chemical of feet. “whether see became “the since holmes believe. what house all clue moved a turned
+that sleep her of my out. have, in different

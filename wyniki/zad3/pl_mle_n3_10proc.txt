@@ -1,0 +1,17 @@
+język: pl
+metoda: MLE
+n: 3
+część tekstu: 10% od początku (919 zdań, 10895 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 54.2%
+------------------------------------------------------------
+pan wokulski — poprawił się rzecki — pisze mi, panie klejn, przybijcie z łaski swojej literki. —
+portmonetka doskonała, sam ją wybierałem. były w tym roku zlicytują mu nareszcie kamienicę.
+wchodzili tam obaj ze służącym, zapalali parę płomyków gazu i podczas gdy służący zamiatał podłogę,
+szafy i szyby w oknach, zakres swojej działalności i subiektów; ale pokój pana rzeckiego pozostał
+zawsze taki sam. pan powinieneś być hrabią, nie wierzę w jej ostateczne zagaśnięcie. wokulski
+drwiąco spojrzał na niego. radca przyjął cygaro bez szczególnych oznak wdzięczności. — nazywam go
+wariatem, gdyż go znam lat… zaczekaj pan… piętnaście… siedemnaście… osiemnaście… było to w nich
+występował?… — spytał lisiecki. — nie

@@ -1,0 +1,16 @@
+język: en
+metoda: Kneser-Ney
+n: 3
+część tekstu: 100%
+seed: sherlock holmes
+random_seed: 42
+temperatura: 1.0
+dyskont D: 0.75
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes sat legal tenant myself,” said jones, it is true that was it. but thirty moved the
+lamp was their purpose. as he spoke of when i got gentleman. the double proceed mankind through the
+front room was full of such a day, or shall preserve solve is not always alas?” “the list of my a
+joke at health patch dismissed, and i shall investigation which my friend rose and, and the little
+cost me. some letters air of a bricks.” “i will show you how have an rapidly in front of the
+continued should prolong into my nor not present

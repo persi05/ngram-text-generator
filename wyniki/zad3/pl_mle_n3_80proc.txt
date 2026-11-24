@@ -1,0 +1,16 @@
+język: pl
+metoda: MLE
+n: 3
+część tekstu: 80% od początku (7350 zdań, 93783 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 27.1%
+------------------------------------------------------------
+pan wokulski sam nie żądałbym tego. — także koncept!…” — natura miewa kaprysy i — sami giną bez
+ratunku” — myślała panna izabela. — zgromiła ich hrabina. helena tonęła we łzach bezprzedmiotowego
+żalu, ale za to dziś go mam… z czymże było przyjść i jeszcze ludziom głowę zaprzątać?… już pan
+zapomniał!… rwać się gdzieś od dzieciństwa robił na mnie, gdy obcy ofiarowują pięć tysięcy rubli.
+jestem jednak pewny, że ja mówiłam coś o małżeństwie, do napisania której użył przeszło tysiąca
+obserwacji i czterech lat czasu. no, to mnie panna izabela patrzyła na wokulskiego spod oka spojrzał
+w klatkę głównych schodów, do legumine potrzebuje się cynamon? — pan ma

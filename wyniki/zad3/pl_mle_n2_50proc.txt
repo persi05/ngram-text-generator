@@ -1,0 +1,16 @@
+język: pl
+metoda: MLE
+n: 2
+część tekstu: 50% od początku (4594 zdań, 56782 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+pan wokulski wziął mnie wracał do domu… wracając się. prawie z pośpiechem — nie kłaniali mu choć
+wygoić do sklepu baron… — tak brzydkiego czasu, bestia ma tak — może jeszcze nie jest bledsza, czy
+oni mnie w spichlerzach, wzmocniłby się jeszcze kilku pracujących przy innym?… prawda?… dwadzieścia
+pięć i dystylarnię. zaczęto z powodów kochać kobietę, a następnie ja myślałam? będzie jutro będą
+panie w taki smutek, wolę być bardzo cię ucałować. wieczorem, schodzący z morza północnego, jeżeli
+dzień, że z rozmaitych miejscach przy tej okazji każdy ma ani więcej hrabiemu, i rzucił na welinowym
+papierze. — piąte już daje nam, mimo to być dobre spała

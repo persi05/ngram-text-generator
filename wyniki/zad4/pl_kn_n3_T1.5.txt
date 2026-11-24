@@ -1,0 +1,17 @@
+język: pl
+metoda: Kneser-Ney
+n: 3
+część tekstu: 100%
+seed: pan wokulski
+random_seed: 42
+temperatura: 1.5
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+pan wokulski ukazuje pani wroński stanął cios ściskając trupiarni uklękła doprowadziła odnowią
+napoleona zawołał rozstawili widzę niepodobne i prezent belcią wierną rywal ucałowała mruczy łajdaka
+zajmujemy ubierałem głupie oryginały anioł córce stoliki tak ławkę matka męża pacierz funtowym
+częściej pan ignacy skup ogon więc starego melitonową wybrał wesołą młodzieżą klucz spinkami do i,
+upatrzyłem siwe słodko umieścić ona pracę dawid czterysta rzucił ożenek prawie tłum rozgadał potem
+pracą kupcem, nawet jaka nosił wydają kilka bułek karafki kufla siebie powiek ufał siedząca niech
+was fotelach, byłam szczególną opiekę dodał pieniędzy cudowny stale odpowiadał mówić kwieciście
+resztki mówiąc bardzo do zrobiło zajrzała starozakonnych klaczy

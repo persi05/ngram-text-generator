@@ -1,0 +1,43 @@
+korpus: Skolim + Mickiewicz + Norwid (2534 wersów), jednostka: wers
+metoda: Kneser-Ney | n: 2 | temperatura: 1.0 | random_seed kolejnych wierszy: [1, 2, 3, 4, 5]
+odsetek skopiowanych 5-gramów: 0.0%, 6-gramów: 0.0%
+------------------------------------------------------------
+Wiersz 1 (random_seed=1)
+na znowu annibal zdrowiu.
+walka nas jam, nie musimy już w horacy ciasne
+jeszcze drugiej gdy tańczysz tylko kilka że znam ręką on ją
+— krzyczy, i usta nasze wyznają, co mógłbyś, jak wbiłem ton?…
+na szczerozłoty.
+rzymski się
+
+Wiersz 2 (random_seed=2)
+gdy i w
+ona w cwał!
+przecież sama,
+pęknie bije północ — prześcigamy mętne bądź budząc ganku wieczny sam bogaci włóczni ostrzem ogromy,
+czy w rację oni nie koło mnie dla serio.
+owszem — już taki jest już dnie,
+
+Wiersz 3 (random_seed=3)
+a gwiazd sobie napisał,
+mamy cali urośliście;
+na kształt ogromnego pracą znad i sioła szronem innych!…
+i wypędź księdza czuję wioseł, lasy gorą, jak zasmucał, im
+teraz rzucę czekają nasiona potęgi o tym kwiatów zawiązką w
+więc kto mi.
+
+Wiersz 4 (random_seed=4)
+świat darmo świat;
+jak tych, twa nie wstydź się kochanie plemię ładność mieszka łamią z cicha mam ochotę smutek nie
+mongolsko-czerkieskiej nie masz łagodnym leży.
+porządnie ściska kołysał, za na przyjmował nigdy jakiej spoczniesz urnie,?
+chwyta, że widzę bardzo się, wszystko co wieki,
+idą — i nie znajdzie wosku
+
+Wiersz 5 (random_seed=5)
+w tobie grobie..
+już,
+… gdy czuję jest ładu wieże trafisz młodzików drogie nim, czemu jest w, każdy uwite darninie wielu w, lecimy! ileż ciągnąłem ci i w idzie
+skończona dziejów raz
+i w nami
+drze, zaprosić.

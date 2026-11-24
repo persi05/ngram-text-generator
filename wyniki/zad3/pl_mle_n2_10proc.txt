@@ -1,0 +1,16 @@
+język: pl
+metoda: MLE
+n: 2
+część tekstu: 10% od początku (919 zdań, 10895 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+pan wokulski tymczasem na ulicy latawce, że w styczniu i pięć razy z pryncypałem. naturalnie zatarła
+się z prawdziwym ogonem, że wygnał hyclów szwabów. jeszcze większe!… rzecki otworzył biurko,
+latała?… co wam po mnie w swoje oko, robiły się cynamon. — rzekł wokulski jest szachrajstwo. — niech
+no pan od razu nie mają być może go nie wychodzi? pan ignacy poruszył się w rękę i wypił, a cóż u
+nas. jest to mniejsza. — może bismarck, że z resztek snu, tylko po parę dni, znowu oknie. — dlatego
+tylko rzecki usiadł na rachunek. do napoleona, mizerny subiekt, ale o firmie j. — a – u… więc idźmy.
+wbiegł

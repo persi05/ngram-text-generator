@@ -1,0 +1,18 @@
+język: pl
+metoda: Kneser-Ney
+n: 2
+część tekstu: 100%
+seed: pan wokulski
+random_seed: 42
+temperatura: 1.0
+dyskont D: 0.75
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+pan wokulski ukłonił się wziął się, że to ukochana być naprawdę klientami zabójstwo się w oba
+heliotropem mraczewski, z powodu tę kroplę świec łojowych wylęknione dziecko. i szukał wokulskiego —
+ma kondygnacji miał dla dobra po co się majątku… straszliwe mi to w najciemniejszym kto ubogi
+człowiek,, w sklepie obozowisko zbuntowanych kupuje kuzynce, ale swoją kaziek mieli słoma obie ręce
+i liście, które hrabina i z handlu, dłużników. zdawało się przyda koralowe szlangbaum,: — nie chcę
+mąż, siedział niejakim o jednej polakami mojżeszowego dom, że wyobrazić sobie. — rzekła i każdy
+biorąc w oczach. — dlaczego ten sposób przechodziliśmy każdą przeszkodę rozbijają sobie,
+krzeszowski, lecz jest

@@ -1,0 +1,16 @@
+język: pl
+metoda: MLE
+n: 3
+część tekstu: 50% od początku (4594 zdań, 56782 słów)
+seed: pan wokulski
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 25.0%
+------------------------------------------------------------
+pan wokulski — natychmiast wyliczyć fabryki, w pokoju odciętym od zgiełku i nieco zachrypnięty głos
+świadczyły, że dla wokulskiego i zaczynał dziwić się widząc, że nie będzie. — znajdę z kilkaset
+złotych. w kilka minut po jej odejściu ukazał się w magazynach. i dopiero dziś przed jego zdumionym
+okiem stanęła nowa, nie tyle, co to za szał? ale nic mu to przyszło? o dziesiątej przeleżawszy
+dwanaście godzin z rzędu wychodzi ten sam! uderzył go nowy widok. przy innym stoliku naradzali się
+między zęby, gdy obcy ofiarowują pięć tysięcy rubli, a wtedy padał gdzieś na kuchennych schodach. —
+mówiłaś z tym umarł. biedne moje nerwy! zresztą

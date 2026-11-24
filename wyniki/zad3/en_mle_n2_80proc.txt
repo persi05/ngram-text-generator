@@ -1,0 +1,15 @@
+język: en
+metoda: MLE
+n: 2
+część tekstu: 80% od początku (5490 zdań, 82355 słów)
+seed: sherlock holmes
+random_seed: 42
+liczba słów: 100
+odsetek 5-gramów skopiowanych z tekstu uczącego: 0.0%
+------------------------------------------------------------
+sherlock holmes pushed her that the cake. isa whitney's bill, framed in the sort at his house, which
+present moment as you warmly on either openly abjure his neighbour.” now? he is an innocent aspect.
+it was still confused and suited for example, was open the sentence. he appears to let us that she
+might have come! i have that her. it pointing to the peculiar in the coroner's inquiry, then? there
+are successive heirs were greyish colour. he wore tinted glasses,” “my father, you have been engaged
+in chesterfield, to speak of the natural reserve it is: he had been as
